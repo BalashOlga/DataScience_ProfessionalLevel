@@ -69,19 +69,6 @@ replay_pid*
 __pycache__/
 Untitled Folder/
 
-# Данные
-*.db
-*.db-journal
-
-# Большие модели (по умолчанию не коммитим)
-models/*.h5
-models/*.keras
-models/cnn_*
-models/neural_network_*
-
-# Но коммитим маленькие KNN модели
-!models/knn_model_*
-
 # Кэш
 __pycache__/
 *.pyc
