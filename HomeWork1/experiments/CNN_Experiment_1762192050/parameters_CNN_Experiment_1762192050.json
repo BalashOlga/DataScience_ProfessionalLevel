@@ -1,0 +1,15 @@
+{
+  "epochs": 15,
+  "batch_size": 64,
+  "filters1": 64,
+  "filters2": 128,
+  "dense_units": 128,
+  "optimizer": "adam",
+  "augmentation": "none",
+  "sample_size": 10000,
+  "enhancement_applied": false,
+  "data_type": "оригинальные",
+  "training_time": 184.66545057296753,
+  "test_accuracy": 0.6194999814033508,
+  "test_loss": 1.5292844772338867
+}

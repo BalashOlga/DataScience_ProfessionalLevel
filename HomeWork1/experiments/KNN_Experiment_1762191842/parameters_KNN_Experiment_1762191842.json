@@ -1,0 +1,10 @@
+{
+  "k_value": 7,
+  "algorithm": "auto",
+  "weights": "uniform",
+  "sample_size": 10000,
+  "enhancement_applied": false,
+  "augmentation_type": "none",
+  "data_type": "оригинальные",
+  "training_time": 1.8353350162506104
+}

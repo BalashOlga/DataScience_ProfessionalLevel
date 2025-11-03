@@ -1,0 +1,15 @@
+{
+  "epochs": 15,
+  "batch_size": 64,
+  "units1": 128,
+  "units2": 64,
+  "dropout_rate": 0.4,
+  "optimizer": "adam",
+  "augmentation": "none",
+  "sample_size": 10000,
+  "enhancement_applied": false,
+  "data_type": "оригинальные",
+  "training_time": 18.87019395828247,
+  "test_accuracy": 0.3215000033378601,
+  "test_loss": 1.8559819459915161
+}
