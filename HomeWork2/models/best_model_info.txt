@@ -1,0 +1,13 @@
+ИНФОРМАЦИЯ О ЛУЧШЕЙ МОДЕЛИ:
+==================================================
+epoch: 35
+loss: 0.07742895915862022
+best_loss: 0.07742895915862022
+timestamp: 2025-11-09 12:01:05
+dataset_size: 3929
+batch_size: 16
+total_parameters: 31036481
+Гиперпараметры:
+  pos_weight: 10.0
+  learning_rate: 1e-05
+  weight_decay: 1e-05

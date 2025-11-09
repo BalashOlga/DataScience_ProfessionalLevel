@@ -76,3 +76,5 @@ __pycache__/
 # Временные файлы
 .DS_Store
 .thumbs
+
+*.pth
