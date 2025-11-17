@@ -1,0 +1,6 @@
+names:
+- cactus
+- cactus_desert
+nc: 2
+train: datasets\cactuses\images\train2017\
+val: datasets\cactuses\images\val2017\
