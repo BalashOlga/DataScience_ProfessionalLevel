@@ -13,24 +13,27 @@ https://github.com/ultralytics/yolov5
 
 ## Структура проекта
 
-project/
-├── datasets/
-│ ├── images/
-│ │ ├── train2017/
-│ │ └── val2017/
-│ └── labels/
-│ ├── train2017/
-│ └── val2017/
-├── results/
-│ ├── detection/
-│ │ ├── after_learning/
-│ │ └── before_laerning/
-│ └── models/
-│ └── plots/
-│ └── test_transfer/
-├── training.py
-├── data.yaml
-└── requirements.txt
+### Описание структуры:
+
+- **datasets/** - данные для обучения
+  - **images/** - изображения
+    - train2017/ - обучающая выборка
+    - val2017/ - валидационная выборка
+  - **labels/** - аннотации
+    - train2017/ - разметка для обучения
+    - val2017/ - разметка для валидации
+
+- **results/** - результаты работы
+  - **detection/** - примеры детекции
+    - after_learning/ - после обучения
+    - before_laerning/ - до обучения
+  - **models/** - сохраненные модели
+  - **plots/** - графики и метрики
+  - **test_transfer/** - тестирование трансферного обучения
+
+- **training.py** - скрипт обучения
+- **data.yaml** - конфигурация данных
+- **requirements.txt** - зависимости проекта
 
 ## Установка и настройка
 

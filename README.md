@@ -8,8 +8,8 @@
 
 ## Оглавление
 1. [HomeWork1](#homework1)
-2. [HomeWork1](#homework2)
-3. [HomeWork1](#homework3)
+2. [HomeWork2](#homework2)
+3. [HomeWork2](#homework3)
 ---
 
 ## HomeWork1
