@@ -3,7 +3,7 @@ target/
 
 #Project specific files
 *.~*
-log/
+#log/
 
 ### IntelliJ IDEA ###
 .idea/
@@ -42,7 +42,7 @@ bin/
 *.class
 
 # Log file
-*.log
+#*.log
 
 # BlueJ files
 *.ctxt
