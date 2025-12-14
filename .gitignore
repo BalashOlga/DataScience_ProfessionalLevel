@@ -78,3 +78,5 @@ __pycache__/
 .thumbs
 
 *.pth
+**/*env*/
+**/[Mm]odels/
